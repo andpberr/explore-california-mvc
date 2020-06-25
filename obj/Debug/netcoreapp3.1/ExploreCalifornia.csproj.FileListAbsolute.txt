@@ -18,3 +18,14 @@ C:\Users\andre\source\repos\ExploreCalifornia\obj\Debug\netcoreapp3.1\staticweba
 C:\Users\andre\source\repos\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.dll
 C:\Users\andre\source\repos\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.pdb
 C:\Users\andre\source\repos\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.genruntimeconfig.cache
+C:\Users\andre\source\repos\ExploreCalifornia\bin\Debug\netcoreapp3.1\ExploreCalifornia.Views.dll
+C:\Users\andre\source\repos\ExploreCalifornia\bin\Debug\netcoreapp3.1\ExploreCalifornia.Views.pdb
+C:\Users\andre\source\repos\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.RazorAssemblyInfo.cache
+C:\Users\andre\source\repos\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.RazorAssemblyInfo.cs
+C:\Users\andre\source\repos\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.TagHelpers.input.cache
+C:\Users\andre\source\repos\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.TagHelpers.output.cache
+C:\Users\andre\source\repos\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.RazorCoreGenerate.cache
+C:\Users\andre\source\repos\ExploreCalifornia\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\andre\source\repos\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.RazorTargetAssemblyInfo.cs
+C:\Users\andre\source\repos\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.Views.pdb
+C:\Users\andre\source\repos\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.csproj.CopyComplete
